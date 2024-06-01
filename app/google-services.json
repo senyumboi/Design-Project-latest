@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1022530724476",
+    "project_id": "infaq-application",
+    "storage_bucket": "infaq-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022530724476:android:a42aa6116b1568ac5f5ff9",
+        "android_client_info": {
+          "package_name": "com.example.infaqapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYUzlexFfvF17T6aV0YJk-ilvO6L5E9Fk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
