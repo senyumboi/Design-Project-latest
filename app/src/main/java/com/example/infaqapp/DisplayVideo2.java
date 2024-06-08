@@ -206,4 +206,4 @@ public class DisplayVideo2 extends AppCompatActivity {
         Intent intent = new
                 Intent(DisplayVideo2.this, videoimageplayer.class);
         startActivity(intent);
-    }
+    }}

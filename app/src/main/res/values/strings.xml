@@ -4,7 +4,7 @@
 
         name="title_activity_videoimageplayer">videoimageplayer</string>
     <string name="tab_text_1">Photos</string>
-    <string name="tab_text_2">Videos</string>
-    <string name="tab_text_3">Profile</string>
-    <string name="phone">Phone</string>
+    <string name="tab_text_2" translatable="false">Videos</string>
+    <string name="tab_text_3" translatable="false">Profile</string>
+    <string name="phone" translatable="false">Phone</string>
 </resources>

@@ -59,7 +59,7 @@
             android:name=".videoimageplayer"
             android:exported="false"
             android:label="@string/title_activity_videoimageplayer"
-            android:theme="@style/Theme.InfaqApp.NoActionBar" />
+            android:theme="@style/Theme.Social_media2" />
         <activity
             android:name=".phone_authentication"
             android:exported="false" />
